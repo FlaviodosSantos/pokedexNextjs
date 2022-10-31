@@ -1,3 +1,19 @@
+# Pokedex em Nextjs
+
+A Pokédex, também conhecida como Poké-Agenda aqui no Brasil , é uma mini enciclopédia eletrônica de pokémons.
+
+Link do projeto pronto :
+https://pokedexnextjs-rho.vercel.app/
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<hr>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
